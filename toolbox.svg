@@ -23,9 +23,9 @@
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-    .track { animation: scroll 53s linear infinite; }
+    .track { animation: scroll 36s linear infinite; }
     .bob { animation: bob 4.8s ease-in-out infinite; }
-    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-1860px); } }
+    @keyframes scroll { from { transform: translateX(-1860px); } to { transform: translateX(0); } }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
     @media (prefers-reduced-motion: reduce) { .track, .bob { animation: none; } }
   </style>
