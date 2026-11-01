@@ -22,7 +22,6 @@
     .blink { animation: blink 1.1s steps(1) infinite; }
     @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
     @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .float, .blink { animation: none; } }
   </style>
 
   <g clip-path="url(#round)">
