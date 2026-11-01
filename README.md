@@ -22,7 +22,7 @@ I'm not a full-time developer, and I don't pretend to be. I code to prototype fa
 
 ## Experience
 
-<img src="experience.svg" alt="Experience timeline: Associate Product Designer at AppsForBharat (Apr 2026 to now); Product Design Intern at PharmEasy (Dec 2025 to Apr 2026); UX Designer Intern at Techolution (Feb to Nov 2025); UX Designer, freelance, at Ivan Aleksander (May to Jul 2024); Web Designer and Developer, freelance, at Limitless Avenues (May to Jun 2024); UX Researcher Intern at Sizar (May to Jun 2023); Co-founder at PRYD Studios (Dec 2022 to Aug 2023)" width="100%">
+<img src="experience.svg" alt="Experience timeline: Associate Product Designer at AppsForBharat (Apr 2026 to now); Product Design Intern at PharmEasy (Dec 2025 to Apr 2026); UX Designer Intern at Techolution (Feb to Nov 2025); freelance UX and web designer (2024); Co-founder of PRYD Studios (Dec 2022 to Aug 2023)" width="100%">
 
 ---
 
