@@ -57,7 +57,7 @@
       <text x="584" y="116"><tspan fill="#C792EA">const</tspan><tspan fill="#E6E9F2"> me </tspan><tspan fill="#89DDFF">=</tspan><tspan fill="#E6E9F2"> {</tspan></text>
       <text x="608" y="142"><tspan fill="#8FB0FF">designs</tspan><tspan fill="#89DDFF">:</tspan><tspan fill="#A5E3A0"> "Figma, Framer"</tspan><tspan fill="#E6E9F2">,</tspan></text>
       <text x="608" y="168"><tspan fill="#8FB0FF">builds</tspan><tspan fill="#89DDFF">:</tspan><tspan fill="#A5E3A0"> "HTML, CSS, JS"</tspan><tspan fill="#E6E9F2">,</tspan></text>
-      <text x="608" y="194"><tspan fill="#8FB0FF">cares</tspan><tspan fill="#89DDFF">:</tspan><tspan fill="#E6E9F2"> [</tspan><tspan fill="#A5E3A0">"people"</tspan><tspan fill="#E6E9F2">, </tspan><tspan fill="#A5E3A0">"logic"</tspan><tspan fill="#E6E9F2">],</tspan></text>
+      <text x="608" y="194"><tspan fill="#8FB0FF">cares</tspan><tspan fill="#89DDFF">:</tspan><tspan fill="#A5E3A0"> "people + logic"</tspan><tspan fill="#E6E9F2">,</tspan></text>
       <text x="584" y="220"><tspan fill="#E6E9F2">};</tspan></text>
       <rect class="blink" x="604" y="232" width="8" height="2" fill="#8FB0FF"/>
     </g>
@@ -65,7 +65,7 @@
 
   <!-- UI card with selection frame, floating over the code window -->
   <g class="float">
-    <g transform="translate(806 150)">
+    <g transform="translate(826 150)">
       <rect width="150" height="120" rx="14" fill="url(#card)"/>
       <circle cx="26" cy="28" r="12" fill="#FFFFFF" fill-opacity="0.9"/>
       <rect x="46" y="20" width="62" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.9"/>

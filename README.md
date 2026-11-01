@@ -91,7 +91,7 @@ Full case studies live on **[yuvrajsoni.in](https://yuvrajsoni.in)**.
 
 ## Education
 
-**B.Des, Interaction Design**, JK Lakshmipat University, Jaipur (2022 to 2026, grade 8.8)
+**B.Des, Interaction Design**, JK Lakshmipat University, Jaipur (2022 to 2026, grade 8.8)<br>
 Organizing Head of AARAMBH 24 and Head of Photography & Media at Jaipur Design Week 24.
 
 ---
