@@ -18,7 +18,7 @@ I'm not a full-time developer, and I don't pretend to be. I code to prototype fa
 
 ## Toolbox
 
-<img src="toolbox.svg" alt="Toolbox: Figma, Framer, Webflow, Wix Studio, HTML5, CSS3, JavaScript, Git, Notion, Mixpanel, Microsoft Clarity, Claude" width="100%">
+<img src="toolbox.svg" alt="Toolbox: Figma, Framer, Webflow, HTML5, CSS3, JavaScript, Git, Notion, Mixpanel, Microsoft Clarity, Claude, Claude Code, Gemini, Nano Banana, Magnific" width="100%">
 
 ## Experience
 
